@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Dev, (Javascript -> Nodejs or HTML, CSS, Javascript)
 - 📫 How to reach me: [Twitter](https://twitter.com/sang_eugene), [Instagram](https://instagram.com/eugene.kiprop.sang) 
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#fff;display:block;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<div>
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#fff;display:block;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
 <g transform="translate(20 20)">
   <rect x="-15" y="-15" width="30" height="30" fill="#e15b64">
     <animateTransform attributeName="transform" type="scale" repeatCount="indefinite" calcMode="spline" dur="1s" values="1;1;0.2;1;1" keyTimes="0;0.2;0.5;0.8;1" keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5" begin="-0.4s"/>
@@ -52,3 +53,4 @@ Here are some ideas to get you started:
   </rect></g>
 
 </svg>
+<div>
