@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Eugene Sang from Kenya<br><br>- 🔭 I’m working as Full stack developer<br>- 📚 I'm currently learning React and Nodejs<br>- ⚡ This project is made using NodeJs and mongodb</p>
+<p align="left">I'm Eugene Sang from Kenya<br><br>- 🔭 I’m working as Full stack developer<br>- 📚 I'm currently learning React and Nodejs<br>- ⚡ I am actively looking for a team to work with</p>
 
 ###
 
@@ -31,17 +31,20 @@
 ###
 
 <div align="left">
-  
+  <h5>Programming Languages</h5>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="css3 logo"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"  />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
