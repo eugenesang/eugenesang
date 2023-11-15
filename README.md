@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugenesang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenesang&show_icons=true&locale=en&layout=compact&theme=dracula"  alt="languages graph"  />
 </div>
 
