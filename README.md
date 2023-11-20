@@ -26,9 +26,6 @@
 
 🔭 I’m currently working on [WorkHub Writers](https://workhubwriters.com)
 
-🔭 I’m currently working on [WorkHub Writers](https://github.com/workhubwriters)
-
-
  🌱 I’m currently learning **Rust, C# and Java**
 
 👯 I’m looking to collaborate on [Kv Resident App](https://github.com/kvresident)
