@@ -30,7 +30,7 @@
 
 👯 I’m looking to collaborate on [Kv Resident App](https://github.com/kvresident)
 
-🤝 I’m looking for help with [Admin Dashboard](https://github.com/eugenesang/mongodb-admin.git)
+🤝 I’m looking for help with a Web Dev Job
 
 💬 Ask me about **Nodejs, Mongodb, JavaScript, CSS and HTML**
 
