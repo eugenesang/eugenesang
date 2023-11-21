@@ -30,7 +30,7 @@
 
 👯 I’m looking to collaborate on [Kv Resident App](https://github.com/kvresident)
 
-🤝 I’m looking for help with a Web Dev Job
+🤝 I’m looking for help with getting a Web Dev Job
 
 💬 Ask me about **Nodejs, Mongodb, JavaScript, CSS and HTML**
 
