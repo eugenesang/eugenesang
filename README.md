@@ -26,7 +26,7 @@
 
 🔭 I’m currently working on [WorkHub Writers](https://workhubwriters.com)
 
- 🌱 I’m currently learning **Rust, C# and Java**
+ 🌱 I’m currently learning **Rust, C# and Java, Zig**
 
 👯 I’m looking to collaborate on [Kv Resident App](https://github.com/kvresident)
 
