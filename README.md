@@ -32,7 +32,7 @@
 
 🤝 I’m looking for help with getting a Web Dev Job
 
-💬 Ask me about **Nodejs, Mongodb, JavaScript, CSS and HTML**
+💬 Ask me about **Nodejs, Mongodb, JavaScript, React, CSS and HTML**
 
 📫 How to reach me **eugeneksang@gmail.com**
 </div>
