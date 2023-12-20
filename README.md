@@ -15,7 +15,6 @@
 
 ###
 
-
 <h1 align="center">Hi 👋, I'm Eugene Sang</h1>
 <h3 align="center">A passionate Full Stack developer from Kenya</h3>
 
@@ -42,8 +41,6 @@
 
 ###
 
-
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=eugenesang&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&theme=dracula" height="220" alt="streak graph"  />
 </div>
@@ -61,9 +58,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenesang" alt="eugenesang" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/sang_eugene" target="blank"><img src="https://img.shields.io/twitter/follow/sang_eugene?logo=twitter&style=for-the-badge" alt="sang_eugene" /></a> </p>
-
-
-
 
 
 <h3 align="center">Languages and Tools:</h3>
