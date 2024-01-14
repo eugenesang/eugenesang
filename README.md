@@ -24,9 +24,9 @@
 
 👯 I’m looking to collaborate on [Kv Resident App](https://github.com/kvresident)
 
-🤝 I’m looking for help with getting a Web Dev Job
-
 💬 Ask me about **Nodejs, Mongodb, JavaScript, React, CSS and HTML**
+
+🤝 Some of my projects are private, contact me for more info
 
 📫 How to reach me **eugeneksang@gmail.com**
 </div>
