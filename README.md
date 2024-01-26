@@ -22,7 +22,7 @@
 
  🌱 I’m currently learning **Rust, C#, Java, Zig and ElectronJS**
 
-👯 I’m looking to collaborate on [Kv Resident App](https://github.com/kvresident)
+👯 I’m looking to collaborate on [Harambee Manager](https://harambeemanager.co.ke)
 
 💬 Ask me about **Nodejs, Mongodb, JavaScript, React, CSS and HTML**
 
