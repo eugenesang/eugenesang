@@ -126,6 +126,5 @@
   <rect x="-15" y="-15" width="30" height="30" fill="#849b87">
     <animateTransform attributeName="transform" type="scale" repeatCount="indefinite" calcMode="spline" dur="1s" values="1;1;0.2;1;1" keyTimes="0;0.2;0.5;0.8;1" keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5" begin="0s"/>
   </rect></g>
-
 </svg>
 <div>
