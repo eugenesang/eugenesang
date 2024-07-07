@@ -29,6 +29,8 @@
 🤝 Some of my projects are private, contact me for more info
 
 📫 How to reach me **eugeneksang@gmail.com**
+
+✆ Phone/WhatsApp [+254 718 925 969](https://wa.me/message/FBHH7ESQJFB4A1)
 </div>
 
 ###
