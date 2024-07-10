@@ -22,7 +22,7 @@
 
  🌱 I’m currently learning **Rust, C#, Java, Zig and ElectronJS**
 
-👯 I’m looking to collaborate on [Mpesa App](https://github.com/eugenesang/mpesa-app)
+👯 I’m looking to collaborate on [Mpesa App](https://github.com/eugenesang/mpesa-app-clone)
 
 💬 Ask me about **Nodejs, Mongodb, JavaScript, React, CSS and HTML**
 
