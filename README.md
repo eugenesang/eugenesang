@@ -22,7 +22,7 @@
 
  🌱 I’m currently learning **Rust, C#, Java, Zig and ElectronJS**
 
-👯 I’m looking to collaborate on [Harambee Manager](https://harambeemanager.co.ke)
+👯 I’m looking to collaborate on [Mpesa App](https://github.com/eugenesang/mpesa-app)
 
 💬 Ask me about **Nodejs, Mongodb, JavaScript, React, CSS and HTML**
 
