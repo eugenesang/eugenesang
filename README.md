@@ -1,5 +1,3 @@
-###
-
 <p align="center">
 <a href="https://twitter.com/sang_eugene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sang_eugene" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eugenesang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenesang" height="30" width="40" /></a>
