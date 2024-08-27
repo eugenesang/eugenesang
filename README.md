@@ -18,7 +18,7 @@
 
 🔭 I’m currently working on [WorkHub Writers](https://workhubwriters.com)
 
- 🌱 I’m currently learning **Rust, C#, Java, Zig and ElectronJS**
+ 🌱 I’m currently learning **Web 3**
 
 👯 I’m looking to collaborate on [Mpesa App](https://github.com/eugenesang/mpesa-app-clone)
 
