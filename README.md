@@ -7,7 +7,6 @@
 <a href="https://discord.gg/Nu76yC3V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eugenesang" height="30" width="40" /></a>
 </p>
 
-###
 
 <h1 align="center">Hi 👋, I'm Eugene Sang</h1>  
 <h3 align="center">A passionate Full Stack developer from Kenya</h3>
