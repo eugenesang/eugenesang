@@ -9,7 +9,6 @@
 - 🤝 Some of my projects are private, contact me for more info
 - 📫 How to reach me: **eugeneksang@gmail.com**
 - ✆ Phone/WhatsApp: [+254 796 578 160](https://wa.me/message/FBHH7ESQJFB4A1)
-
 ---
 
 ### 🔥 My Stats:
