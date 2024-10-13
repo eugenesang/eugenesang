@@ -4,7 +4,7 @@
 ### About Me:
 - 🔭 I’m currently working on [WorkHub Writers](https://workhubwriters.com)
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
-- 👯 I’m looking to collaborate on [Mpesa App](https://github.com/eugenesang/mpesa-app-clone)
+- 👯 I’m looking to collaborate on Web 3 Shop
 - 💬 Ask me about **Node.js, MongoDB, JavaScript, React, CSS, and HTML**
 - 🤝 Some of my projects are private, contact me for more info
 - 📫 How to reach me: **eugeneksang@gmail.com**
