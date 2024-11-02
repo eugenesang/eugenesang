@@ -2,7 +2,7 @@
 ### A passionate Full Stack developer from Kenya
 
 ### About Me:
-- 🔭 I’m currently working on [WorkHub Writers](https://workhubwriters.com)
+- 🔭 I’m currently working on [Alta Fortuna](https://altafortuna.life)
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
 - 👯 I’m looking to collaborate on Web 3 Shop
 - 💬 Ask me about **Node.js, MongoDB, JavaScript, React, CSS, and HTML**
