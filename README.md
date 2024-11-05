@@ -11,6 +11,17 @@
 - ✆ WhatsApp: [+254 796 578 160](https://wa.me/message/FBHH7ESQJFB4A1)
 ---
 
+### Socials:
+
+[<img src="https://img.icons8.com/color/48/youtube-play.png" />](https://youtube.com/eugenesang)
+[<img src="https://img.icons8.com/color/48/twitterx.png" />](https://twitter.com/sang_eugene)
+[<img src="https://img.icons8.com/color/48/facebook.png" />](https://fb.com/eugeneksang)
+[<img src="https://img.icons8.com/color/48/linkedin.png" />](https://linkedin.com/in/eugenesang)
+[<img src="https://img.icons8.com/color/48/instagram.png" />](https://instagram.com/eugene.sang)
+[<img src="https://img.icons8.com/color/48/discord.png" />](https://discord.gg/Nu76yC3V)
+
+---
+
 ### 🔥 My Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=eugenesang&theme=onedark)
@@ -18,17 +29,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eugenesang&theme=dracula&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=eugenesang&show_icons=true&locale=en&layout=compact&theme=dracula)
-
----
-
-### Socials:
-
-- [Twitter](https://twitter.com/sang_eugene)
-- [LinkedIn](https://linkedin.com/in/eugenesang)
-- [Facebook](https://fb.com/eugeneksang)
-- [Instagram](https://instagram.com/eugene.sang)
-- [YouTube](https://www.youtube.com/@eugenesang)
-- [Discord](https://discord.gg/Nu76yC3V)
 
 ---
 
@@ -88,7 +88,11 @@
 
 ---
 
-### Twitter:
-![Twitter Follow](https://img.shields.io/twitter/follow/sang_eugene?logo=twitter&style=for-the-badge)
+[<img src="https://img.icons8.com/color/48/youtube-play.png" />](https://youtube.com/eugenesang)
+[<img src="https://img.icons8.com/color/48/twitterx.png" />](https://twitter.com/sang_eugene)
+[<img src="https://img.icons8.com/color/48/facebook.png" />](https://fb.com/eugeneksang)
+[<img src="https://img.icons8.com/color/48/linkedin.png" />](https://linkedin.com/in/eugenesang)
+[<img src="https://img.icons8.com/color/48/instagram.png" />](https://instagram.com/eugene.sang)
+[<img src="https://img.icons8.com/color/48/discord.png" />](https://discord.gg/Nu76yC3V)
 
 ---
