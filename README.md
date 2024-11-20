@@ -15,7 +15,6 @@
 
 [<img src="https://img.icons8.com/color/48/youtube-play.png" />](https://youtube.com/eugenesang)
 [<img src="https://img.icons8.com/color/48/twitterx.png" />](https://twitter.com/sang_eugene)
-[<img src="https://img.icons8.com/color/48/facebook.png" />](https://fb.com/eugeneksang)
 [<img src="https://img.icons8.com/color/48/linkedin.png" />](https://linkedin.com/in/eugenesang)
 [<img src="https://img.icons8.com/color/48/instagram.png" />](https://instagram.com/eugene.sang)
 [<img src="https://img.icons8.com/color/48/discord.png" />](https://discord.gg/Nu76yC3V)
